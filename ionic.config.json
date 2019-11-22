@@ -1,0 +1,7 @@
+{
+  "name": "recicladoraIon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
